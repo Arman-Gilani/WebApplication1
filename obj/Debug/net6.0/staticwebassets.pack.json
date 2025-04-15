@@ -1,0 +1,717 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\WebApplication1.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WebApplication1.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\img\\MY PROFILE IMAGE.jpg",
+      "PackagePath": "staticwebassets\\img\\MY PROFILE IMAGE.jpg"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\img\\apple-touch-icon.png",
+      "PackagePath": "staticwebassets\\img\\apple-touch-icon.png"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\img\\backgroundimage.jpg",
+      "PackagePath": "staticwebassets\\img\\backgroundimage.jpg"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\img\\favicon.png"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\img\\hero-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\hero-bg.jpg"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\img\\images\\image1.jpg",
+      "PackagePath": "staticwebassets\\img\\images\\image1.jpg"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\img\\images\\image2.jpg",
+      "PackagePath": "staticwebassets\\img\\images\\image2.jpg"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\img\\images\\image3.jpg",
+      "PackagePath": "staticwebassets\\img\\images\\image3.jpg"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\img\\images\\image4.jpg",
+      "PackagePath": "staticwebassets\\img\\images\\image4.jpg"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\img\\images\\image5.jpg",
+      "PackagePath": "staticwebassets\\img\\images\\image5.jpg"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\img\\images\\image6.jpg",
+      "PackagePath": "staticwebassets\\img\\images\\image6.jpg"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\img\\images\\image7.jpg",
+      "PackagePath": "staticwebassets\\img\\images\\image7.jpg"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\img\\images\\image8.jpg",
+      "PackagePath": "staticwebassets\\img\\images\\image8.jpg"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\img\\images\\image9.jpg",
+      "PackagePath": "staticwebassets\\img\\images\\image9.jpg"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\img\\images\\p1.jpg",
+      "PackagePath": "staticwebassets\\img\\images\\p1.jpg"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\img\\images\\p1_files\\RotateCookiesPage.html",
+      "PackagePath": "staticwebassets\\img\\images\\p1_files\\RotateCookiesPage.html"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\img\\images\\p1_files\\cb=gapi.loaded_0",
+      "PackagePath": "staticwebassets\\img\\images\\p1_files\\cb=gapi.loaded_0"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\img\\images\\p1_files\\dark_thumbnail2.png",
+      "PackagePath": "staticwebassets\\img\\images\\p1_files\\dark_thumbnail2.png"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\img\\images\\p1_files\\device_default_thumbnail2.png",
+      "PackagePath": "staticwebassets\\img\\images\\p1_files\\device_default_thumbnail2.png"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\img\\images\\p1_files\\faviconV2",
+      "PackagePath": "staticwebassets\\img\\images\\p1_files"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\img\\images\\p1_files\\faviconV2(1)",
+      "PackagePath": "staticwebassets\\img\\images\\p1_files"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\img\\images\\p1_files\\faviconV2(10)",
+      "PackagePath": "staticwebassets\\img\\images\\p1_files"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\img\\images\\p1_files\\faviconV2(11)",
+      "PackagePath": "staticwebassets\\img\\images\\p1_files"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\img\\images\\p1_files\\faviconV2(12)",
+      "PackagePath": "staticwebassets\\img\\images\\p1_files"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\img\\images\\p1_files\\faviconV2(13)",
+      "PackagePath": "staticwebassets\\img\\images\\p1_files"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\img\\images\\p1_files\\faviconV2(14)",
+      "PackagePath": "staticwebassets\\img\\images\\p1_files"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\img\\images\\p1_files\\faviconV2(2)",
+      "PackagePath": "staticwebassets\\img\\images\\p1_files"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\img\\images\\p1_files\\faviconV2(3)",
+      "PackagePath": "staticwebassets\\img\\images\\p1_files"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\img\\images\\p1_files\\faviconV2(4)",
+      "PackagePath": "staticwebassets\\img\\images\\p1_files"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\img\\images\\p1_files\\faviconV2(5)",
+      "PackagePath": "staticwebassets\\img\\images\\p1_files"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\img\\images\\p1_files\\faviconV2(6)",
+      "PackagePath": "staticwebassets\\img\\images\\p1_files"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\img\\images\\p1_files\\faviconV2(7)",
+      "PackagePath": "staticwebassets\\img\\images\\p1_files"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\img\\images\\p1_files\\faviconV2(8)",
+      "PackagePath": "staticwebassets\\img\\images\\p1_files"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\img\\images\\p1_files\\faviconV2(9)",
+      "PackagePath": "staticwebassets\\img\\images\\p1_files"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\img\\images\\p1_files\\images",
+      "PackagePath": "staticwebassets\\img\\images\\p1_files"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\img\\images\\p1_files\\images(1)",
+      "PackagePath": "staticwebassets\\img\\images\\p1_files"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\img\\images\\p1_files\\images(10)",
+      "PackagePath": "staticwebassets\\img\\images\\p1_files"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\img\\images\\p1_files\\images(11)",
+      "PackagePath": "staticwebassets\\img\\images\\p1_files"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\img\\images\\p1_files\\images(12)",
+      "PackagePath": "staticwebassets\\img\\images\\p1_files"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\img\\images\\p1_files\\images(13)",
+      "PackagePath": "staticwebassets\\img\\images\\p1_files"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\img\\images\\p1_files\\images(14)",
+      "PackagePath": "staticwebassets\\img\\images\\p1_files"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\img\\images\\p1_files\\images(15)",
+      "PackagePath": "staticwebassets\\img\\images\\p1_files"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\img\\images\\p1_files\\images(16)",
+      "PackagePath": "staticwebassets\\img\\images\\p1_files"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\img\\images\\p1_files\\images(17)",
+      "PackagePath": "staticwebassets\\img\\images\\p1_files"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\img\\images\\p1_files\\images(18)",
+      "PackagePath": "staticwebassets\\img\\images\\p1_files"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\img\\images\\p1_files\\images(19)",
+      "PackagePath": "staticwebassets\\img\\images\\p1_files"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\img\\images\\p1_files\\images(2)",
+      "PackagePath": "staticwebassets\\img\\images\\p1_files"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\img\\images\\p1_files\\images(20)",
+      "PackagePath": "staticwebassets\\img\\images\\p1_files"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\img\\images\\p1_files\\images(21)",
+      "PackagePath": "staticwebassets\\img\\images\\p1_files"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\img\\images\\p1_files\\images(22)",
+      "PackagePath": "staticwebassets\\img\\images\\p1_files"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\img\\images\\p1_files\\images(23)",
+      "PackagePath": "staticwebassets\\img\\images\\p1_files"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\img\\images\\p1_files\\images(24)",
+      "PackagePath": "staticwebassets\\img\\images\\p1_files"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\img\\images\\p1_files\\images(25)",
+      "PackagePath": "staticwebassets\\img\\images\\p1_files"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\img\\images\\p1_files\\images(26)",
+      "PackagePath": "staticwebassets\\img\\images\\p1_files"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\img\\images\\p1_files\\images(27)",
+      "PackagePath": "staticwebassets\\img\\images\\p1_files"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\img\\images\\p1_files\\images(3)",
+      "PackagePath": "staticwebassets\\img\\images\\p1_files"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\img\\images\\p1_files\\images(4)",
+      "PackagePath": "staticwebassets\\img\\images\\p1_files"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\img\\images\\p1_files\\images(5)",
+      "PackagePath": "staticwebassets\\img\\images\\p1_files"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\img\\images\\p1_files\\images(6)",
+      "PackagePath": "staticwebassets\\img\\images\\p1_files"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\img\\images\\p1_files\\images(7)",
+      "PackagePath": "staticwebassets\\img\\images\\p1_files"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\img\\images\\p1_files\\images(8)",
+      "PackagePath": "staticwebassets\\img\\images\\p1_files"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\img\\images\\p1_files\\images(9)",
+      "PackagePath": "staticwebassets\\img\\images\\p1_files"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\img\\images\\p1_files\\light_thumbnail2.png",
+      "PackagePath": "staticwebassets\\img\\images\\p1_files\\light_thumbnail2.png"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\img\\images\\p1_files\\m=_b,_tp,_r",
+      "PackagePath": "staticwebassets\\img\\images\\p1_files"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\img\\images\\p1_files\\rs=AA2YrTskQVuI_RegvjB3vE2uQHtwf-5cGg",
+      "PackagePath": "staticwebassets\\img\\images\\p1_files"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\img\\images\\p1_files\\rs=AA2YrTvcagVyTW7BCkkQRuzxRo8lL9FByw",
+      "PackagePath": "staticwebassets\\img\\images\\p1_files"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\img\\images\\p1_files\\unnamed.png",
+      "PackagePath": "staticwebassets\\img\\images\\p1_files\\unnamed.png"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\img\\p2.png",
+      "PackagePath": "staticwebassets\\img\\p2.png"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\img\\portfolio\\portfolio-1.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\portfolio-1.jpg"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\img\\portfolio\\portfolio-2.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\portfolio-2.jpg"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\img\\portfolio\\portfolio-3.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\portfolio-3.jpg"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\img\\portfolio\\portfolio-4.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\portfolio-4.jpg"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\img\\portfolio\\portfolio-5.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\portfolio-5.jpg"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\img\\portfolio\\portfolio-6.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\portfolio-6.jpg"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\img\\portfolio\\portfolio-7.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\portfolio-7.jpg"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\img\\portfolio\\portfolio-8.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\portfolio-8.jpg"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\img\\portfolio\\portfolio-9.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\portfolio-9.jpg"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\img\\portfolio\\portfolio-details-1.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\portfolio-details-1.jpg"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\img\\portfolio\\portfolio-details-2.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\portfolio-details-2.jpg"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\img\\portfolio\\portfolio-details-3.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\portfolio-details-3.jpg"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\img\\profile-img.jpg",
+      "PackagePath": "staticwebassets\\img\\profile-img.jpg"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\img\\testimonials\\testimonials-1.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonials\\testimonials-1.jpg"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\img\\testimonials\\testimonials-2.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonials\\testimonials-2.jpg"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\img\\testimonials\\testimonials-3.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonials\\testimonials-3.jpg"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\img\\testimonials\\testimonials-4.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonials\\testimonials-4.jpg"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\img\\testimonials\\testimonials-5.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonials\\testimonials-5.jpg"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\vendor\\aos\\aos.cjs.js",
+      "PackagePath": "staticwebassets\\vendor\\aos\\aos.cjs.js"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\vendor\\aos\\aos.css",
+      "PackagePath": "staticwebassets\\vendor\\aos\\aos.css"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\vendor\\aos\\aos.esm.js",
+      "PackagePath": "staticwebassets\\vendor\\aos\\aos.esm.js"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\vendor\\aos\\aos.js",
+      "PackagePath": "staticwebassets\\vendor\\aos\\aos.js"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\vendor\\aos\\aos.js.map",
+      "PackagePath": "staticwebassets\\vendor\\aos\\aos.js.map"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\vendor\\bootstrap-icons\\bootstrap-icons.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-icons\\bootstrap-icons.css"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\vendor\\bootstrap-icons\\bootstrap-icons.json",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-icons\\bootstrap-icons.json"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\vendor\\bootstrap-icons\\bootstrap-icons.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-icons\\bootstrap-icons.min.css"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\vendor\\bootstrap-icons\\bootstrap-icons.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-icons\\bootstrap-icons.scss"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\vendor\\boxicons\\css\\animations.css",
+      "PackagePath": "staticwebassets\\vendor\\boxicons\\css\\animations.css"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\vendor\\boxicons\\css\\boxicons.css",
+      "PackagePath": "staticwebassets\\vendor\\boxicons\\css\\boxicons.css"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\vendor\\boxicons\\css\\boxicons.min.css",
+      "PackagePath": "staticwebassets\\vendor\\boxicons\\css\\boxicons.min.css"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\vendor\\boxicons\\css\\transformations.css",
+      "PackagePath": "staticwebassets\\vendor\\boxicons\\css\\transformations.css"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\vendor\\boxicons\\fonts\\boxicons.eot",
+      "PackagePath": "staticwebassets\\vendor\\boxicons\\fonts\\boxicons.eot"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\vendor\\boxicons\\fonts\\boxicons.svg",
+      "PackagePath": "staticwebassets\\vendor\\boxicons\\fonts\\boxicons.svg"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\vendor\\boxicons\\fonts\\boxicons.ttf",
+      "PackagePath": "staticwebassets\\vendor\\boxicons\\fonts\\boxicons.ttf"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\vendor\\boxicons\\fonts\\boxicons.woff",
+      "PackagePath": "staticwebassets\\vendor\\boxicons\\fonts\\boxicons.woff"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\vendor\\boxicons\\fonts\\boxicons.woff2",
+      "PackagePath": "staticwebassets\\vendor\\boxicons\\fonts\\boxicons.woff2"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\vendor\\glightbox\\css\\glightbox.css",
+      "PackagePath": "staticwebassets\\vendor\\glightbox\\css\\glightbox.css"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\vendor\\glightbox\\css\\glightbox.min.css",
+      "PackagePath": "staticwebassets\\vendor\\glightbox\\css\\glightbox.min.css"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\vendor\\glightbox\\css\\plyr.css",
+      "PackagePath": "staticwebassets\\vendor\\glightbox\\css\\plyr.css"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\vendor\\glightbox\\css\\plyr.min.css",
+      "PackagePath": "staticwebassets\\vendor\\glightbox\\css\\plyr.min.css"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\vendor\\glightbox\\js\\glightbox.js",
+      "PackagePath": "staticwebassets\\vendor\\glightbox\\js\\glightbox.js"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\vendor\\glightbox\\js\\glightbox.min.js",
+      "PackagePath": "staticwebassets\\vendor\\glightbox\\js\\glightbox.min.js"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\vendor\\isotope-layout\\isotope.pkgd.js",
+      "PackagePath": "staticwebassets\\vendor\\isotope-layout\\isotope.pkgd.js"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\vendor\\isotope-layout\\isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets\\vendor\\isotope-layout\\isotope.pkgd.min.js"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\vendor\\php-email-form\\validate.js",
+      "PackagePath": "staticwebassets\\vendor\\php-email-form\\validate.js"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\vendor\\purecounter\\purecounter_vanilla.js",
+      "PackagePath": "staticwebassets\\vendor\\purecounter\\purecounter_vanilla.js"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\vendor\\purecounter\\purecounter_vanilla.js.map",
+      "PackagePath": "staticwebassets\\vendor\\purecounter\\purecounter_vanilla.js.map"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\vendor\\swiper\\swiper-bundle.min.css",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\swiper-bundle.min.css"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\vendor\\swiper\\swiper-bundle.min.js",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\swiper-bundle.min.js"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\vendor\\swiper\\swiper-bundle.min.js.map",
+      "PackagePath": "staticwebassets\\vendor\\swiper\\swiper-bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\vendor\\typed.js\\typed.cjs",
+      "PackagePath": "staticwebassets\\vendor\\typed.js\\typed.cjs"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\vendor\\typed.js\\typed.cjs.map",
+      "PackagePath": "staticwebassets\\vendor\\typed.js\\typed.cjs.map"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\vendor\\typed.js\\typed.module.js",
+      "PackagePath": "staticwebassets\\vendor\\typed.js\\typed.module.js"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\vendor\\typed.js\\typed.module.js.map",
+      "PackagePath": "staticwebassets\\vendor\\typed.js\\typed.module.js.map"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\vendor\\typed.js\\typed.umd.js",
+      "PackagePath": "staticwebassets\\vendor\\typed.js\\typed.umd.js"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\vendor\\typed.js\\typed.umd.js.map",
+      "PackagePath": "staticwebassets\\vendor\\typed.js\\typed.umd.js.map"
+    },
+    {
+      "Id": "D:\\ARMAN\\ASP.NET PROGRAMS\\WebApplication1\\WebApplication1\\wwwroot\\vendor\\waypoints\\noframework.waypoints.js",
+      "PackagePath": "staticwebassets\\vendor\\waypoints\\noframework.waypoints.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.WebApplication1.props",
+      "PackagePath": "build\\WebApplication1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.WebApplication1.props",
+      "PackagePath": "buildMultiTargeting\\WebApplication1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.WebApplication1.props",
+      "PackagePath": "buildTransitive\\WebApplication1.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
